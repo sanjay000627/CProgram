@@ -6,7 +6,6 @@ int main() {
         printf("Sunrise : 7:00 AM\n");
         printf("Sunset : 5:30 PM");
     }
-        
     else if(month==3){
          printf("Sunrise : 6:30 AM\n");
         printf("Sunset : 6:30 PM");
